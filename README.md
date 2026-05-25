@@ -3,7 +3,7 @@
 A Django REST + React prototype for ingesting carbon emissions data from three enterprise source types, normalising it, and surfacing an analyst review workflow before audit lock.
 
 **Live backend:** https://shaksra.pythonanywhere.com  
-**Live frontend:** [Netlify URL — update after deploying]
+**Live frontend:** [[Netlify URL — update after deploying]](https://spectacular-paletas-4b50a8.netlify.app/)
 
 **Credentials:**
 - Analyst: `analyst` / `demo1234`
