@@ -116,7 +116,7 @@ python3.13 manage.py seed_demo
 ```powershell
 cd frontend
 npm install
-$env:REACT_APP_API_URL="https://shaksra.pythonanywhere.com"
+$env:REACT_APP_API_URL="https://YOURUSERNAME.pythonanywhere.com"
 npm run build
 ```
 2. Go to netlify.com → drag and drop the `frontend/build` folder onto the dashboard
